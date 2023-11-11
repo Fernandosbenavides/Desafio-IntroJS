@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    padding: 10%;
+    background-color: black;
+    color: aliceblue;
+}
+
+img {
+    width: 300px;
+}
+
+section {
+    padding: 50px;
+    justify-content: center;
+    text-align: center;
+    border-color: aquamarine;
+    border-style: solid;
+    border-radius: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: black;
+    border-color: aquamarine;
+}
